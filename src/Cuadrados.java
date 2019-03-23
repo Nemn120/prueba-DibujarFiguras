@@ -15,7 +15,7 @@ public class Cuadrados extends JPanel {
 
 		}
 
-		// g.drawPolygon(null);
+		
 	}
 
 }
